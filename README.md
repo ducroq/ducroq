@@ -10,10 +10,12 @@ I build production AI systems — synthetic media pipelines, ML-scored intellige
 
 | Project | What it does |
 |---------|-------------|
-| [podcast-generator](https://dev.jeroenveen.nl/podcast-generator) | 30 synthetic voices, multilingual TTS, full production pipeline |
+| [podcast-generator](https://ducroq.github.io/podcast-generator) | 30 synthetic voices, multilingual TTS, full production pipeline |
 | [agent-ready-projects](https://github.com/ducroq/agent-ready-projects) | Methodology for AI-augmented development |
 | [ovr.news](https://ovr.news) | 1500+ feeds, GPU-scored ML filtering, automated publishing |
 | [vmodel.eu](https://vmodel.eu) | AI-powered V-model validation for engineering documents |
+| [Aegis](https://aegis.jeroenveen.nl) | Four-layer macro risk early warning, backtested 2000-2024 |
+| [ese-bot](https://ese-bot.jeroenveen.nl) | EU-compliant RAG for querying academic documents |
 
 #### Links
 
